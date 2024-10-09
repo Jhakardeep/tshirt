@@ -1,0 +1,36 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * titling-gothic-fb:
+ *   - http://typekit.com/eulas/00000000000000003b9ae8de
+ *   - http://typekit.com/eulas/00000000000000003b9ae8df
+ *   - http://typekit.com/eulas/00000000000000003b9ae8e0
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-04-06 17:42:51 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"titling-gothic-fb";
+src:url("af/c3156c/00000000000000003b9ae8de/27/l") format("woff2"),url("af/c3156c/00000000000000003b9ae8de/27/d") format("woff"),url("af/c3156c/00000000000000003b9ae8de/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"titling-gothic-fb";
+src:url("af/1100b4/00000000000000003b9ae8df/27/l") format("woff2"),url("af/1100b4/00000000000000003b9ae8df/27/d") format("woff"),url("af/1100b4/00000000000000003b9ae8df/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"titling-gothic-fb";
+src:url("af/d58aa1/00000000000000003b9ae8e0/27/l") format("woff2"),url("af/d58aa1/00000000000000003b9ae8e0/27/d") format("woff"),url("af/d58aa1/00000000000000003b9ae8e0/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-titling-gothic-fb { font-family: "titling-gothic-fb",sans-serif; }

@@ -1,0 +1,1764 @@
+Uri: http://d1b2zzpxewkr9z.cloudfront.net/assets/osdd.xml
+File Name: C:\Downloaded Web Sites\teespring.com\assets\osdd.xml
+Content Type: application/xml
+
+Uri: http://d1b2zzpxewkr9z.cloudfront.net/campaigns/creatorlogo.png
+File Name: C:\Downloaded Web Sites\teespring.com\campaigns\creatorlogo.png
+Content Type: image/png
+
+Uri: https://cdn.optimizely.com/js/308705246.js
+File Name: C:\Downloaded Web Sites\teespring.com\js\308705246.js
+Content Type: text/javascript
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/appstore-lrg.svg
+File Name: C:\Downloaded Web Sites\teespring.com\images\appstore-lrg.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/checkout/amex.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\checkout\amex.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/checkout/discover.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\checkout\discover.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/checkout/empty_cart.svg
+File Name: C:\Downloaded Web Sites\teespring.com\images\checkout\empty_cart.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/checkout/mastercard.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\checkout\mastercard.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/checkout/paypal_logo.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\checkout\paypal_logo.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/checkout/visa.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\checkout\visa.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Brazil.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Brazil.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/France.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\France.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Germany.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Germany.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Indonesia.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Indonesia.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Italy.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Italy.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Mexico.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Mexico.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Netherlands.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Netherlands.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Portugal.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Portugal.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Spain.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Spain.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/United-Kingdom.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\United-Kingdom.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/United-States.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\United-States.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/flags/Vietnam.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\flags\Vietnam.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/icons/double_caret.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\icons\double_caret.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/loaders/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\teespring.com\images\loaders\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/loaders/spinner-raspberry.svg
+File Name: C:\Downloaded Web Sites\teespring.com\images\loaders\spinner-raspberry.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/loaders/spinner-white.svg
+File Name: C:\Downloaded Web Sites\teespring.com\images\loaders\spinner-white.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/loaders/spinner.svg
+File Name: C:\Downloaded Web Sites\teespring.com\images\loaders\spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/vendor/paypal-logo-white-ie8.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\vendor\paypal-logo-white-ie8.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/images/vendor/paypal-logo-white.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\vendor\paypal-logo-white.png
+Content Type: image/png
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/closed_lock_purple_large.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\closed_lock_purple_large.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/closed_lock_purple_small.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\closed_lock_purple_small.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/closed_lock_white_large.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\closed_lock_white_large.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/closed_lock_white_small.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\closed_lock_white_small.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/gt-haptik/GT-Haptik-Black.otf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\gt-haptik\GT-Haptik-Black.otf
+Content Type: application/x-font-otf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/gt-haptik/GT-Haptik-Black.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\gt-haptik\GT-Haptik-Black.woff
+Content Type: application/font-woff
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/gt-haptik/GT-Haptik-Black.woff2
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\gt-haptik\GT-Haptik-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/gt-haptik/GT-Haptik-Bold.otf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\gt-haptik\GT-Haptik-Bold.otf
+Content Type: application/x-font-otf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/gt-haptik/GT-Haptik-Bold.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\gt-haptik\GT-Haptik-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/gt-haptik/GT-Haptik-Bold.woff2
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\gt-haptik\GT-Haptik-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/mr-eaves/MrEavesXLModOT-Bold.otf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\mr-eaves\MrEavesXLModOT-Bold.otf
+Content Type: application/x-font-otf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/mr-eaves/MrEavesXLModOT-Bold.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\mr-eaves\MrEavesXLModOT-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/mr-eaves/MrEavesXLModOT-Bold.woff2
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\mr-eaves\MrEavesXLModOT-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/mr-eaves/MrEavesXLModOT-Reg.otf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\mr-eaves\MrEavesXLModOT-Reg.otf
+Content Type: application/x-font-otf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/mr-eaves/MrEavesXLModOT-Reg.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\mr-eaves\MrEavesXLModOT-Reg.woff
+Content Type: application/font-woff
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/mr-eaves/MrEavesXLModOT-Reg.woff2
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\mr-eaves\MrEavesXLModOT-Reg.woff2
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/open_lock_purple_large.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\open_lock_purple_large.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/open_lock_purple_small.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\open_lock_purple_small.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/open_lock_white_large.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\open_lock_white_large.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/open_lock_white_small.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\open_lock_white_small.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-filled.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-filled.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-filled.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-filled-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-filled.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-filled.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-filled.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-filled.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-filled.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-filled.woff
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-outlined.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-outlined.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-outlined.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-outlined-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-outlined.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-outlined.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-outlined.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-outlined.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-glyphish-outlined.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-glyphish-outlined.woff
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-circle.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-circle.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-circle.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-circle-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-circle.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-circle.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-circle.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-circle.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-circle.woff
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-regular.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-regular.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-regular.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-regular.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-social-regular.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-social-regular.woff
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-standard.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-standard.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-standard.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-standard-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-standard.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-standard.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-standard.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-standard.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/Symbolset/ss-standard.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\Symbolset\ss-standard.woff
+Content Type: application/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/ts-icon-20190917/ts-icon.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\ts-icon-20190917\ts-icon.eot
+Content Type: binary/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/ts-icon-20190917/ts-icon.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\ts-icon-20190917\ts-icon-1.eot
+Content Type: binary/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/ts-icon-20190917/ts-icon.svg
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\ts-icon-20190917\ts-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/ts-icon-20190917/ts-icon.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\ts-icon-20190917\ts-icon.ttf
+Content Type: binary/octet-stream
+
+Uri: https://d1b2zzpxewkr9z.cloudfront.net/webfonts/ts-icon-20190917/ts-icon.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\ts-icon-20190917\ts-icon.woff
+Content Type: application/font-woff
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans&display=swap
+File Name: C:\Downloaded Web Sites\teespring.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Poppins&display=swap
+File Name: C:\Downloaded Web Sites\teespring.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;400&display=swap
+File Name: C:\Downloaded Web Sites\teespring.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap
+File Name: C:\Downloaded Web Sites\teespring.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://js.stripe.com/v3/stripe.js
+File Name: C:\Downloaded Web Sites\teespring.com\v3\stripe.js
+Content Type: text/javascript
+
+Uri: https://mockup-api.teespring.com/static.jpg?height=560&image_url=https:%2F%2Fteespring-pub-custom.s3.amazonaws.com%2F30b_128922641_product_2150_105986_back.png&padded=false&signature=H4lfIzCfpXOskTwyjpj1mjqnS5sz3fYlta%2BnXIy3z5Q%3D&version=2024-08-25-18-16-06&width=480
+File Name: C:\Downloaded Web Sites\teespring.com\static-5.jpg
+Content Type: image/png
+
+Uri: https://mockup-api.teespring.com/static.jpg?height=560&image_url=https:%2F%2Fteespring-pub-custom.s3.amazonaws.com%2Fd08_128922641_product_2150_105986_front.png&padded=false&signature=%2BRNAPTcRUOyHjWMbIv784Ircd2xY8080g0WzmqcDLlY%3D&version=2024-08-25-18-16-06&width=480
+File Name: C:\Downloaded Web Sites\teespring.com\static-4.jpg
+Content Type: image/png
+
+Uri: https://mockup-api.teespring.com/static.jpg?height=570&image_url=https:%2F%2Fteespring-pub-custom.s3.amazonaws.com%2F30b_128922641_product_2150_105986_back.png&padded=false&signature=H4lfIzCfpXOskTwyjpj1mjqnS5sz3fYlta%2BnXIy3z5Q%3D&version=2024-08-25-18-16-06&width=120
+File Name: C:\Downloaded Web Sites\teespring.com\static-7.jpg
+Content Type: image/png
+
+Uri: https://mockup-api.teespring.com/static.jpg?height=570&image_url=https:%2F%2Fteespring-pub-custom.s3.amazonaws.com%2Fd08_128922641_product_2150_105986_front.png&padded=false&signature=%2BRNAPTcRUOyHjWMbIv784Ircd2xY8080g0WzmqcDLlY%3D&version=2024-08-25-18-16-06&width=120
+File Name: C:\Downloaded Web Sites\teespring.com\static-6.jpg
+Content Type: image/png
+
+Uri: https://mockup-api.teespring.com/static.jpg?height=570&image_url=https:%2F%2Fteespring-pub-custom.s3.amazonaws.com%2F0de_127143713_product_2335_106668_front.png&padded=false&signature=bSIfqtZrr9YWzHGt2oYQbhjJmCoyG47M6%2FC%2BKohPb68%3D&version=2024-09-24-00-49-47&width=570
+File Name: C:\Downloaded Web Sites\teespring.com\static-3.jpg
+Content Type: image/png
+
+Uri: https://mockup-api.teespring.com/static.jpg?height=570&image_url=https:%2F%2Fteespring-pub-custom.s3.amazonaws.com%2F195_128191766_product_1959_105517_front.png&padded=false&signature=jPFjzR8g%2B0dELoDqObRPmqTRSXIjm%2B1MTlZ%2BUJ9Nuuw%3D&version=2024-10-06-17-50-41&width=570
+File Name: C:\Downloaded Web Sites\teespring.com\static-2.jpg
+Content Type: image/png
+
+Uri: https://mockup-api.teespring.com/static.jpg?height=570&image_url=https:%2F%2Fteespring-pub-custom.s3.amazonaws.com%2F838_128855923_product_2427_106849_front.png&padded=false&signature=Bqy4SRXgzimL6jTeMlxuKptFoMJ8vlV1KSW6GaH27io%3D&version=2024-06-26-16-28-30&width=570
+File Name: C:\Downloaded Web Sites\teespring.com\static-1.jpg
+Content Type: image/png
+
+Uri: https://mockup-api.teespring.com/static.jpg?height=570&image_url=https:%2F%2Fteespring-pub-custom.s3.amazonaws.com%2Fd08_128922641_product_2150_105986_front.png&padded=false&signature=%2BRNAPTcRUOyHjWMbIv784Ircd2xY8080g0WzmqcDLlY%3D&version=2024-08-25-18-16-06&width=570
+File Name: C:\Downloaded Web Sites\teespring.com\static.jpg
+Content Type: image/png
+
+Uri: https://mockup-api.teespring.com/v3/image/3-JUOwnKgzO5X-Tjx1qvUBuWnCk/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\3-JUOwnKgzO5X-Tjx1qvUBuWnCk\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/4_iB8iMpnwxEiVIcs6yWW4GO_10/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\4_iB8iMpnwxEiVIcs6yWW4GO_10\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/5WnrFhsxFu2-pCj0e_F0CLcCcc8/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\5WnrFhsxFu2-pCj0e_F0CLcCcc8\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/Bc0ISfLfkMk4ykRoBChdoenm71s/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\Bc0ISfLfkMk4ykRoBChdoenm71s\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/hJvy34B6xCQF1lhM0TePrZoa_MM/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\hJvy34B6xCQF1lhM0TePrZoa_MM\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/IWQ4IGPXcDLp_cPrsvfKxIzHfJc/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\IWQ4IGPXcDLp_cPrsvfKxIzHfJc\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/jqfzhZN_sexsptDEVlU_lS7LG2k/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\jqfzhZN_sexsptDEVlU_lS7LG2k\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/MAiUGM8vFiZhNA5eHzklzZykru4/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\MAiUGM8vFiZhNA5eHzklzZykru4\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/N1MUnkmwOEVkPYwZPp--i2s5KGA/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\N1MUnkmwOEVkPYwZPp--i2s5KGA\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/Os3GdnzNaHTBB9cqJzjmrAGvVxM/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\Os3GdnzNaHTBB9cqJzjmrAGvVxM\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://mockup-api.teespring.com/v3/image/yyQcSRsQO2KiPjDKboEINAdfNHM/560/560.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\v3\image\yyQcSRsQO2KiPjDKboEINAdfNHM\560\560.jpg
+Content Type: image/jpeg
+
+Uri: https://p.typekit.net/p.css?s=1&k=rxx6uim&ht=tk&f=31375.31376.31377&a=16477382&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\teespring.com\p.css
+Content Type: text/css
+
+Uri: https://s3.amazonaws.com/teespring-ass/homepage_heros/TwitchHero_Blank_Narrow.png
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\homepage_heros\TwitchHero_Blank_Narrow.png
+Content Type: image/png
+
+Uri: https://s3.amazonaws.com/teespring-ass/homepage_heros/TwitchHero_iPhone_Blank_Narrow.png
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\homepage_heros\TwitchHero_iPhone_Blank_Narrow.png
+Content Type: image/png
+
+Uri: https://s3.amazonaws.com/teespring-ass/homepage_heros/Twitch_Logo.svg
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\homepage_heros\Twitch_Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.amazonaws.com/teespring-ass/images/hp-assets/hp_animated_logomark.gif
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\images\hp-assets\hp_animated_logomark.gif
+Content Type: image/gif
+
+Uri: https://s3.amazonaws.com/teespring-ass/webfonts/ss-social-regular.eot
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\webfonts\ss-social-regular.eot
+Content Type: application/octet-stream
+
+Uri: https://s3.amazonaws.com/teespring-ass/webfonts/ss-social-regular.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\webfonts\ss-social-regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://s3.amazonaws.com/teespring-ass/webfonts/ss-social-regular.svg
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\webfonts\ss-social-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.amazonaws.com/teespring-ass/webfonts/ss-social-regular.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\webfonts\ss-social-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.amazonaws.com/teespring-ass/webfonts/ss-social-regular.woff
+File Name: C:\Downloaded Web Sites\teespring.com\teespring-ass\webfonts\ss-social-regular.woff
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/Search+Hero+/2019_07_11_vidcon_hero_desktop.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\HP\Search Hero \2019_07_11_vidcon_hero_desktop.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/Search+Hero+/2019_07_11_vidcon_hero_mobile.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\HP\Search Hero \2019_07_11_vidcon_hero_mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/whitelabel/CreatorTile.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\HP\whitelabel\CreatorTile.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/whitelabel/creatorTileMob.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\HP\whitelabel\creatorTileMob.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/whitelabel/heroCropGraphic2Web.png
+File Name: C:\Downloaded Web Sites\teespring.com\HP\whitelabel\heroCropGraphic2Web.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/whitelabel/searchProducts.png
+File Name: C:\Downloaded Web Sites\teespring.com\HP\whitelabel\searchProducts.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/whitelabel/tiktok-homepage-v2.png
+File Name: C:\Downloaded Web Sites\teespring.com\HP\whitelabel\tiktok-homepage-v2.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/whitelabel/tiktokTileMob.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\HP\whitelabel\tiktokTileMob.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/whitelabel/YouTubeTile.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\HP\whitelabel\YouTubeTile.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/HP/whitelabel/youtubeTileMob.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\HP\whitelabel\youtubeTileMob.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/images/shop_more-min.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\shop_more-min.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/images/springBanner-min.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\springBanner-min.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/images/start_creating-min.png
+File Name: C:\Downloaded Web Sites\teespring.com\images\start_creating-min.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/onboarding_v2/auth.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\onboarding_v2\auth.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/onboarding_v2/logos/face.png
+File Name: C:\Downloaded Web Sites\teespring.com\onboarding_v2\logos\face.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/onboarding_v2/logos/goog.png
+File Name: C:\Downloaded Web Sites\teespring.com\onboarding_v2\logos\goog.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/onboarding_v2/logos/yt.png
+File Name: C:\Downloaded Web Sites\teespring.com\onboarding_v2\logos\yt.png
+Content Type: image/png
+
+Uri: https://teespring-ass.s3.amazonaws.com/onboarding_v2/sign-up_image.jpg
+File Name: C:\Downloaded Web Sites\teespring.com\onboarding_v2\sign-up_image.jpg
+Content Type: image/jpeg
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-300-webfont.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-300-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-300-webfont.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-300-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-300-webfont.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-300-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-300-webfont.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-300-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-300italic-webfont.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-300italic-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-300italic-webfont.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-300italic-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-300italic-webfont.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-300italic-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-300italic-webfont.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-300italic-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-500-webfont.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-500-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-500-webfont.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-500-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-500-webfont.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-500-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-500-webfont.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-500-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-500italic-webfont.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-500italic-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-500italic-webfont.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-500italic-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-700-webfont.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-700-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-700-webfont.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-700-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-700-webfont.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-700-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-700-webfont.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-700-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-700italic-webfont.eot
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-700italic-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-700italic-webfont.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-700italic-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-700italic-webfont.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-700italic-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://teespring-ass.s3.amazonaws.com/webfonts/proximanova-700italic-webfont.woff
+File Name: C:\Downloaded Web Sites\teespring.com\webfonts\proximanova-700italic-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://teespring.com/
+File Name: C:\Downloaded Web Sites\teespring.com\index.htm
+Content Type: text/html
+
+Uri: https://teespring.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://teespring.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://teespring.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\teespring.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/bootstrap/glyphicons-halflings-regular-62fcbc4796f99217282f30c654764f572d9bfd9df7de9ce1e37922fa3caf8124.eot
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\bootstrap\glyphicons-halflings-regular-62fcbc4796f99217282f30c654764f572d9bfd9df7de9ce1e37922fa3caf8124.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://teespring.com/compiled_assets/bootstrap/glyphicons-halflings-regular-62fcbc4796f99217282f30c654764f572d9bfd9df7de9ce1e37922fa3caf8124.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\bootstrap\glyphicons-halflings-regular-62fcbc4796f99217282f30c654764f572d9bfd9df7de9ce1e37922fa3caf8124-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://teespring.com/compiled_assets/bootstrap/glyphicons-halflings-regular-63faf0af44a428f182686f0d924bb30e369a9549630c7b98a969394f58431067.woff
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\bootstrap\glyphicons-halflings-regular-63faf0af44a428f182686f0d924bb30e369a9549630c7b98a969394f58431067.woff
+Content Type: application/font-woff
+
+Uri: https://teespring.com/compiled_assets/bootstrap/glyphicons-halflings-regular-cef3dffcef386be2c8d1307761717e2eb9f43c151f2da9f1647e9d454abf13a3.svg
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\bootstrap\glyphicons-halflings-regular-cef3dffcef386be2c8d1307761717e2eb9f43c151f2da9f1647e9d454abf13a3.svg
+Content Type: image/svg+xml
+
+Uri: https://teespring.com/compiled_assets/bootstrap/glyphicons-halflings-regular-e27b969ef04fed3b39000b7b977e602d6e6a2b1c8c0d618bebf6dd875243ea3c.ttf
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\bootstrap\glyphicons-halflings-regular-e27b969ef04fed3b39000b7b977e602d6e6a2b1c8c0d618bebf6dd875243ea3c.ttf
+Content Type: application/octet-stream
+
+Uri: https://teespring.com/compiled_assets/buyer/application_campaign-89e4b93685187bee5b9cf5ae1173bbe1a14f4fba2efd2e18627ce6ecd22f7f47.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\application_campaign-89e4b93685187bee5b9cf5ae1173bbe1a14f4fba2efd2e18627ce6ecd22f7f47.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/buyer/campaigns/ChaChing-9ff984d613c986d1c51574bbbbf277399319a272a3262117af373300aaa5f307.svg
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\campaigns\ChaChing-9ff984d613c986d1c51574bbbbf277399319a272a3262117af373300aaa5f307.svg
+Content Type: image/svg+xml
+
+Uri: https://teespring.com/compiled_assets/buyer/campaigns/Delivery_Truck-8b5e62df7856def9b37738a75b0b69be837edffd98b71280d7114c46b2fa865d.svg
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\campaigns\Delivery_Truck-8b5e62df7856def9b37738a75b0b69be837edffd98b71280d7114c46b2fa865d.svg
+Content Type: image/svg+xml
+
+Uri: https://teespring.com/compiled_assets/buyer/modules/categories/categories-314ff56f57a85332077c4a213d6eff0d0810c2fa4d7a7d6450f751e1bbbfe237.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\modules\categories\categories-314ff56f57a85332077c4a213d6eff0d0810c2fa4d7a7d6450f751e1bbbfe237.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/buyer/modules/recommendations/recommendations-1b37a539cc79bd886e79892ed644fe381845735e2874d296c6d8c1c766252728.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\modules\recommendations\recommendations-1b37a539cc79bd886e79892ed644fe381845735e2874d296c6d8c1c766252728.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/buyer/modules/shopping_cart/shopping_cart-5b573435c46a0cc40e0b77e8d051e23e783ba5d4a4b7446ab5a0c2838733cccf.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\modules\shopping_cart\shopping_cart-5b573435c46a0cc40e0b77e8d051e23e783ba5d4a4b7446ab5a0c2838733cccf.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/buyer/teerex-1e552636ba3b351433cee0cd320beeff8076ce751b530445e22c383fca4c0853.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\teerex-1e552636ba3b351433cee0cd320beeff8076ce751b530445e22c383fca4c0853.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/buyer/views/campaign/campaign_page-c99a93b46ac0c4675b39227c1269423a6a448561039b2404c3fcfbdd287e8644.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\views\campaign\campaign_page-c99a93b46ac0c4675b39227c1269423a6a448561039b2404c3fcfbdd287e8644.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/buyer/views/category/category-c25e3868fb38e9846249639e45a058d1d02fab10d57818c4f2d98618bbc5b299.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\views\category\category-c25e3868fb38e9846249639e45a058d1d02fab10d57818c4f2d98618bbc5b299.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/buyer/views/shopping_cart/show-c5719938d9c224c76c2235fec3bcdb75a50a3bf139ff9601f48fa1c728174b03.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\buyer\views\shopping_cart\show-c5719938d9c224c76c2235fec3bcdb75a50a3bf139ff9601f48fa1c728174b03.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/core/legal_forms-304671762168f78961edf7fc5e6ad8236b97587ab172359bce33046634f3039b.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\core\legal_forms-304671762168f78961edf7fc5e6ad8236b97587ab172359bce33046634f3039b.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/core/modules/homepage/new-63ed25e3647f91b583242a98822227b85d80cd6d4e053bc716cf78ec06bcf75f.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\core\modules\homepage\new-63ed25e3647f91b583242a98822227b85d80cd6d4e053bc716cf78ec06bcf75f.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/core/modules/legal_form/legal_form-981b6ff7aadff9ffb888db40d9bbbf78e37938d8837f432a873c0da63a9b6407.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\core\modules\legal_form\legal_form-981b6ff7aadff9ffb888db40d9bbbf78e37938d8837f432a873c0da63a9b6407.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/core/modules/recover/recover-edd06e33daed8984edfe9ffdb66e47df49b67583f8b53ffb13cd1d2119cc58a7.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\core\modules\recover\recover-edd06e33daed8984edfe9ffdb66e47df49b67583f8b53ffb13cd1d2119cc58a7.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/core/report_campaign-7453f29c9d7df4e98f6925c6be4365decbcc329483e819365882875cd3ea31c1.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\core\report_campaign-7453f29c9d7df4e98f6925c6be4365decbcc329483e819365882875cd3ea31c1.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/core/views/authentication/authentication-bd951cc1dbf093e88b59e07530096e6b6c754b82ef738565d70aced715de9271.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\core\views\authentication\authentication-bd951cc1dbf093e88b59e07530096e6b6c754b82ef738565d70aced715de9271.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/core/views/homepage/app-65362b27035b14f636f66a0a8f60522eb49a6be18402f0409b69bf5e0085004d.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\core\views\homepage\app-65362b27035b14f636f66a0a8f60522eb49a6be18402f0409b69bf5e0085004d.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/fontawesome-webfont-14dcb8f02b3b81c2baab230610c349a94282bbd976693759e9b4a8694d486451.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\fontawesome-webfont-14dcb8f02b3b81c2baab230610c349a94282bbd976693759e9b4a8694d486451.ttf
+Content Type: application/octet-stream
+
+Uri: https://teespring.com/compiled_assets/fontawesome-webfont-18e6b5ff511b90edf098e62ac45ed9d6673a3eee10165d0de4164d4d02a3a77f.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\fontawesome-webfont-18e6b5ff511b90edf098e62ac45ed9d6673a3eee10165d0de4164d4d02a3a77f.woff
+Content Type: application/font-woff
+
+Uri: https://teespring.com/compiled_assets/fontawesome-webfont-61c90f78333473c40f9512789708cdcd8206dd269401103f33d438cd838bb1f0.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\fontawesome-webfont-61c90f78333473c40f9512789708cdcd8206dd269401103f33d438cd838bb1f0.svg
+Content Type: image/svg+xml
+
+Uri: https://teespring.com/compiled_assets/fontawesome-webfont-a9595e5bf3b6dbbc076902b9abdea356053d69a2fe66506706de9bb39a126b8f.eot?
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\fontawesome-webfont-a9595e5bf3b6dbbc076902b9abdea356053d69a2fe66506706de9bb39a126b8f-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://teespring.com/compiled_assets/fontawesome-webfont-a9595e5bf3b6dbbc076902b9abdea356053d69a2fe66506706de9bb39a126b8f.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\fontawesome-webfont-a9595e5bf3b6dbbc076902b9abdea356053d69a2fe66506706de9bb39a126b8f.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://teespring.com/compiled_assets/fontawesome-webfont-ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\fontawesome-webfont-ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995.woff2
+Content Type: application/font-woff2
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/animated-overlay-c7bcc76fb23c0430b36ec448eb79f8bc34129dae95da10f3c14ed0eacdf2f1b9.gif
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\animated-overlay-c7bcc76fb23c0430b36ec448eb79f8bc34129dae95da10f3c14ed0eacdf2f1b9.gif
+Content Type: image/gif
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-bg_flat_0_aaaaaa_40x100-9a8492a580bf85d3e98ae8861fbd45567e5a1f83eeafcf9574da0399d5f602ab.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-bg_flat_0_aaaaaa_40x100-9a8492a580bf85d3e98ae8861fbd45567e5a1f83eeafcf9574da0399d5f602ab.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-bg_flat_75_ffffff_40x100-39ab7ccd9f4e82579da78a9241265df288d8eb65dbbd7cf48aed2d0129887df5.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-bg_flat_75_ffffff_40x100-39ab7ccd9f4e82579da78a9241265df288d8eb65dbbd7cf48aed2d0129887df5.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-bg_glass_55_fbf9ee_1x400-691597e8a40a891ea94d3589976ecfc33e6145c49422443b00ac2b5a0022964c.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-bg_glass_55_fbf9ee_1x400-691597e8a40a891ea94d3589976ecfc33e6145c49422443b00ac2b5a0022964c.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-bg_glass_65_ffffff_1x400-f0e6cd91b837d5c5644d026e5ffeccd907953317cd5c0f689901733afda260b2.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-bg_glass_65_ffffff_1x400-f0e6cd91b837d5c5644d026e5ffeccd907953317cd5c0f689901733afda260b2.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-bg_glass_75_dadada_1x400-c108f5cbf2dd9ec07a26530695ddd95e1664597ce6c056ae44c162cc2e28cec4.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-bg_glass_75_dadada_1x400-c108f5cbf2dd9ec07a26530695ddd95e1664597ce6c056ae44c162cc2e28cec4.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-bg_glass_75_e6e6e6_1x400-ddf5dd4e0ef2b185e8bb0af7b6e90ebe74a84384cb4700658e76e754c8bfe550.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-bg_glass_75_e6e6e6_1x400-ddf5dd4e0ef2b185e8bb0af7b6e90ebe74a84384cb4700658e76e754c8bfe550.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-bg_glass_95_fef1ec_1x400-f6f1c1bedf1a0f37cfef81d12f5f012869d1ee7c984775a569827a1784d34f5c.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-bg_glass_95_fef1ec_1x400-f6f1c1bedf1a0f37cfef81d12f5f012869d1ee7c984775a569827a1784d34f5c.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-bg_highlight-soft_75_cccccc_1x100-54270656df079c4da5182629a080fc633b6f84b87985eb016d25a560e2c38d4a.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-bg_highlight-soft_75_cccccc_1x100-54270656df079c4da5182629a080fc633b6f84b87985eb016d25a560e2c38d4a.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-icons_222222_256x240-57adb0d65f4e91dacfee975d9574422bee7486c8a182d60133728c672f2cdbbc.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-icons_222222_256x240-57adb0d65f4e91dacfee975d9574422bee7486c8a182d60133728c672f2cdbbc.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-icons_2e83ff_256x240-20f8c6667afc48aa433ee9eb6d8a0584bdbd6b4a4a9091ff1e6b3adb31e63bd9.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-icons_2e83ff_256x240-20f8c6667afc48aa433ee9eb6d8a0584bdbd6b4a4a9091ff1e6b3adb31e63bd9.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-icons_454545_256x240-07460e843c3e59aaadbb34231e699e856a2980753c7a47b66447da5d9f93fb7f.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-icons_454545_256x240-07460e843c3e59aaadbb34231e699e856a2980753c7a47b66447da5d9f93fb7f.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-icons_888888_256x240-ea2e29625de3463465e93b002b065f5833e05b97f7a052b1c141e754d62e1a8b.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-icons_888888_256x240-ea2e29625de3463465e93b002b065f5833e05b97f7a052b1c141e754d62e1a8b.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/jquery-ui/ui-icons_cd0a0a_256x240-1e32c6dbf5d3fd342f27a78aa881550d6412aa207f48468724a6a15402b6041b.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\jquery-ui\ui-icons_cd0a0a_256x240-1e32c6dbf5d3fd342f27a78aa881550d6412aa207f48468724a6a15402b6041b.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/modernizr_custom-d4d0de5865fd6cf9eaab5c08d1a52d7a03103d3ec059ef51796fcecd533f9981.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\modernizr_custom-d4d0de5865fd6cf9eaab5c08d1a52d7a03103d3ec059ef51796fcecd533f9981.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/rush-badge-7724403f69dd433811d6f406e6e274651f43feb12418c05925de516a457da450.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\rush-badge-7724403f69dd433811d6f406e6e274651f43feb12418c05925de516a457da450.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif
+Content Type: image/gif
+
+Uri: https://teespring.com/compiled_assets/select2x2-6fe28d687dc0ed4d96016238c608ba1e7198c9c9accfa0b360b78018b9fb9bc2.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\select2x2-6fe28d687dc0ed4d96016238c608ba1e7198c9c9accfa0b360b78018b9fb9bc2.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/shared/application-02f1eb7ac061312a3f9f0a31b5540f509f7153620d17ce4b22de8c2e2e9f5198.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\application-02f1eb7ac061312a3f9f0a31b5540f509f7153620d17ce4b22de8c2e2e9f5198.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/shared/application-e6e6af529c2f7a9afc3bc5e868008187f17e25fb4b2cc58c636a057cf323a5ff.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\application-e6e6af529c2f7a9afc3bc5e868008187f17e25fb4b2cc58c636a057cf323a5ff.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/shared/authentication/authentication_v2-6a9d277b947b24ff9670cb038a41915cc6d8339e205dfaf92150abef85bc9aa1.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\authentication\authentication_v2-6a9d277b947b24ff9670cb038a41915cc6d8339e205dfaf92150abef85bc9aa1.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/shared/favicon-9ce09461d59957f2d0c9813e6b0b242b987f2d257779d33a1e02a9ec4077d143.ico
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\favicon-9ce09461d59957f2d0c9813e6b0b242b987f2d257779d33a1e02a9ec4077d143.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://teespring.com/compiled_assets/shared/favicon-ts-b7ae0e735d886f162bb93452934310a339e1eae4e2988e2a4aec2c10c05b4c5c.ico
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\favicon-ts-b7ae0e735d886f162bb93452934310a339e1eae4e2988e2a4aec2c10c05b4c5c.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://teespring.com/compiled_assets/shared/flags/Australia-round-b6de3f57b4ccbe49e7781e129197a18a9c5b12461ce679869c441f4fbb16666f.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\flags\Australia-round-b6de3f57b4ccbe49e7781e129197a18a9c5b12461ce679869c441f4fbb16666f.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/shared/flags/Canada-round-58f6ae296482cc1b7c5f55d02fa9fa7b5445dc55b555aa1cd8ce043b16877dd5.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\flags\Canada-round-58f6ae296482cc1b7c5f55d02fa9fa7b5445dc55b555aa1cd8ce043b16877dd5.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/shared/flags/EU-round-410a0a1d61fd937ae2a0a81b89c198991f4224e8f9687e3130668aa5e8acc19b.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\flags\EU-round-410a0a1d61fd937ae2a0a81b89c198991f4224e8f9687e3130668aa5e8acc19b.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/shared/flags/United-States-round-7b5db06e96d2e4d3d187cac66ce54fdaedaa618f31de429598ccfdf061edecab.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\flags\United-States-round-7b5db06e96d2e4d3d187cac66ce54fdaedaa618f31de429598ccfdf061edecab.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/shared/flags/World-round-036864a188a41185e9e419f01d526fadcb69e7db2220277318b7610a39f763a6.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\flags\World-round-036864a188a41185e9e419f01d526fadcb69e7db2220277318b7610a39f763a6.png
+Content Type: image/png
+
+Uri: https://teespring.com/compiled_assets/shared/modules/content_expander-22d9b85b41b62cebb16056c124387761c41812c9fe7e21cb5d402b756b8d7c8b.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\modules\content_expander-22d9b85b41b62cebb16056c124387761c41812c9fe7e21cb5d402b756b8d7c8b.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/shared/react_components/VerificationToast/index-e49ee290046037c9b5693cfb964fbb14cdd0381d2f6d3a36e8192e1ce8765635.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\react_components\VerificationToast\index-e49ee290046037c9b5693cfb964fbb14cdd0381d2f6d3a36e8192e1ce8765635.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/shared/recaptcha-b667d7a0676ff4cb4a110afa8063f1f3ed94d9f0258540029012132b7b37c640.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\shared\recaptcha-b667d7a0676ff4cb4a110afa8063f1f3ed94d9f0258540029012132b7b37c640.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/spinner-4976792f89ee4336a0d49ea2452d2454d229789d4d8ee3e8016660d5d375f56e.gif
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\spinner-4976792f89ee4336a0d49ea2452d2454d229789d4d8ee3e8016660d5d375f56e.gif
+Content Type: image/gif
+
+Uri: https://teespring.com/compiled_assets/v2/application-7d8098c86f52a50ee778297a16af78bae6c5c8cdcfe0df62909d19bf471f0119.js
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\v2\application-7d8098c86f52a50ee778297a16af78bae6c5c8cdcfe0df62909d19bf471f0119.js
+Content Type: application/javascript
+
+Uri: https://teespring.com/compiled_assets/v2/application-888106a0ab278090a1d969d45a5f8860016ec08ed7eaf87d05ffa80cd1cbc1a7.css
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\v2\application-888106a0ab278090a1d969d45a5f8860016ec08ed7eaf87d05ffa80cd1cbc1a7.css
+Content Type: text/css
+
+Uri: https://teespring.com/compiled_assets/v2/web/track/recover-e62e353f5990b337f9a6ed0d58a2044c6f5a64dc7fb15a8ce5431554c4f539b7.png
+File Name: C:\Downloaded Web Sites\teespring.com\compiled_assets\v2\web\track\recover-e62e353f5990b337f9a6ed0d58a2044c6f5a64dc7fb15a8ce5431554c4f539b7.png
+Content Type: image/png
+
+Uri: https://teespring.com/de
+File Name: C:\Downloaded Web Sites\teespring.com\de.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/login
+File Name: C:\Downloaded Web Sites\teespring.com\de\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\de\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/policies/report/acceptable_use/false_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\de\policies\report\acceptable_use\false_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\de\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\de\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\de\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\de\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\de\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/recover
+File Name: C:\Downloaded Web Sites\teespring.com\de\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\de\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\de\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\de\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\de\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\de\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\de\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/track
+File Name: C:\Downloaded Web Sites\teespring.com\de\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/de/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\de\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/login
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/recover
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/track
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/en-GB/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\en-GB\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/es
+File Name: C:\Downloaded Web Sites\teespring.com\es.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/login
+File Name: C:\Downloaded Web Sites\teespring.com\es\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\es\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/policies/report/acceptable_use/false_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\es\policies\report\acceptable_use\false_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\es\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\es\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\es\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\es\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\es\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/recover
+File Name: C:\Downloaded Web Sites\teespring.com\es\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\es\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\es\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\es\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\es\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\es\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\es\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/track
+File Name: C:\Downloaded Web Sites\teespring.com\es\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/es/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\es\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr
+File Name: C:\Downloaded Web Sites\teespring.com\fr.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/login
+File Name: C:\Downloaded Web Sites\teespring.com\fr\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\fr\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/policies/report/acceptable_use/false_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\fr\policies\report\acceptable_use\false_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\fr\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\fr\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\fr\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\fr\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\fr\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/recover
+File Name: C:\Downloaded Web Sites\teespring.com\fr\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\fr\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\fr\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\fr\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\fr\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\fr\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\fr\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/track
+File Name: C:\Downloaded Web Sites\teespring.com\fr\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/fr/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\fr\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/id
+File Name: C:\Downloaded Web Sites\teespring.com\id.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/login
+File Name: C:\Downloaded Web Sites\teespring.com\id\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\id\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\id\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\id\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\id\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\id\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\id\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/recover
+File Name: C:\Downloaded Web Sites\teespring.com\id\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\id\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\id\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\id\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\id\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\id\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\id\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/track
+File Name: C:\Downloaded Web Sites\teespring.com\id\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/id/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\id\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/it
+File Name: C:\Downloaded Web Sites\teespring.com\it.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/login
+File Name: C:\Downloaded Web Sites\teespring.com\it\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\it\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/policies/report/acceptable_use/false_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\it\policies\report\acceptable_use\false_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\it\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\it\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\it\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\it\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\it\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/recover
+File Name: C:\Downloaded Web Sites\teespring.com\it\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\it\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\it\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\it\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\it\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\it\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\it\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/track
+File Name: C:\Downloaded Web Sites\teespring.com\it\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/it/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\it\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/login
+File Name: C:\Downloaded Web Sites\teespring.com\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl
+File Name: C:\Downloaded Web Sites\teespring.com\nl.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/login
+File Name: C:\Downloaded Web Sites\teespring.com\nl\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\nl\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/policies/report/acceptable_use/false_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\nl\policies\report\acceptable_use\false_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\nl\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\nl\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\nl\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\nl\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\nl\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/recover
+File Name: C:\Downloaded Web Sites\teespring.com\nl\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\nl\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\nl\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\nl\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\nl\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\nl\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\nl\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/track
+File Name: C:\Downloaded Web Sites\teespring.com\nl\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/nl/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\nl\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/policies/report/acceptable_use/false_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\policies\report\acceptable_use\false_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/policies/report/acceptable_use/illegal/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\policies\report\acceptable_use\illegal\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/login
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/recover
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/track
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/pt-BR/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\pt-BR\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/recover
+File Name: C:\Downloaded Web Sites\teespring.com\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\shop\new-back-9-boys-trucker-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/shop/new-back-9-boys-trucker?aid=marketplace&tsmac=marketplace&tsmic=category
+File Name: C:\Downloaded Web Sites\teespring.com\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\shop\shop-all-collection-tshirts-3.html
+Content Type: text/html
+
+Uri: https://teespring.com/shop/shop-all-collection-tshirts?page=2&tsmac=marketplace&tsmic=navigation
+File Name: C:\Downloaded Web Sites\teespring.com\shop\shop-all-collection-tshirts-2.html
+Content Type: text/html
+
+Uri: https://teespring.com/shop/shop-all-collection-tshirts?tsmac=marketplace&tsmic=navigation
+File Name: C:\Downloaded Web Sites\teespring.com\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/signup
+File Name: C:\Downloaded Web Sites\teespring.com\signup-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/signup?cta=start_designing
+File Name: C:\Downloaded Web Sites\teespring.com\signup.html
+Content Type: text/html
+
+Uri: https://teespring.com/track
+File Name: C:\Downloaded Web Sites\teespring.com\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\track\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/login
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\login.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/policies/ip/claims/for/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\policies\ip\claims\for\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/policies/report/acceptable_use/graphic/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\policies\report\acceptable_use\graphic\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/policies/report/acceptable_use/hate_speech/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\policies\report\acceptable_use\hate_speech\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/policies/report/acceptable_use/third_party_ip_claim/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\policies\report\acceptable_use\third_party_ip_claim\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/policies/report/acceptable_use/violent/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\policies\report\acceptable_use\violent\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/policies/report/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\policies\report\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/recover
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\recover.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/shop/best-sellers-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\shop\best-sellers-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/shop/best-sellers-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\shop\best-sellers-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/shop/new-back-9-boys-trucker
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\shop\new-back-9-boys-trucker.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/shop/shop-all-collection-tshirts
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\shop\shop-all-collection-tshirts.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/shop/shop-all-collection-tshirts?page=2
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\shop\shop-all-collection-tshirts-1.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/shopping_cart
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\shopping_cart.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/track
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\track.html
+Content Type: text/html
+
+Uri: https://teespring.com/vi-VN/track/recover
+File Name: C:\Downloaded Web Sites\teespring.com\vi-VN\track\recover.html
+Content Type: text/html
+
+Uri: https://use.typekit.net/af/1100b4/00000000000000003b9ae8df/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\1100b4\00000000000000003b9ae8df\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/1100b4/00000000000000003b9ae8df/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\1100b4\00000000000000003b9ae8df\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/1100b4/00000000000000003b9ae8df/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\1100b4\00000000000000003b9ae8df\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/c3156c/00000000000000003b9ae8de/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\c3156c\00000000000000003b9ae8de\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/c3156c/00000000000000003b9ae8de/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\c3156c\00000000000000003b9ae8de\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/c3156c/00000000000000003b9ae8de/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\c3156c\00000000000000003b9ae8de\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/d58aa1/00000000000000003b9ae8e0/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\d58aa1\00000000000000003b9ae8e0\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/d58aa1/00000000000000003b9ae8e0/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\d58aa1\00000000000000003b9ae8e0\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/d58aa1/00000000000000003b9ae8e0/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\teespring.com\af\d58aa1\00000000000000003b9ae8e0\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/rxx6uim.css
+File Name: C:\Downloaded Web Sites\teespring.com\rxx6uim.css
+Content Type: text/css
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\teespring.com\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit
+File Name: C:\Downloaded Web Sites\teespring.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-1008161615
+File Name: C:\Downloaded Web Sites\teespring.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-DONTUSE
+File Name: C:\Downloaded Web Sites\teespring.com\gtag\js-1
+Content Type: application/javascript
+
